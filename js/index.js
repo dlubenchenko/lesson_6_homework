@@ -19,6 +19,6 @@
     }  else {
         var x3 = - b / (2 * a);
         var x4 = - b / (2 * a);
-        document.write('0 / ', x2, x3);
-        document.write('0 / ', x3, x4);
+        document.write('D > 0 / ', x2, x3);
+        document.write('D = 0 / ', x3, x4);
     }
